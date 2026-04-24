@@ -86,6 +86,7 @@ The resulting archive will be named like: `archive_20250423_153012.zip`
 |---|---|
 | `download:` | Each file saved individually in `downloads/` with its original name |
 | `download-zip:` | All files bundled into a single `archive_YYYYMMDD_HHMMSS.zip` in `downloads/` |
+download-zip: https://github.com/action966/github-sandbox/archive/refs/heads/main.zip
 
 ---
 
